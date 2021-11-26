@@ -1,3 +1,5 @@
+package main;
+
 import ru.ifmo.se.pokemon.Battle;
 
 public class Main {
